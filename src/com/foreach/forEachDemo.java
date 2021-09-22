@@ -20,7 +20,7 @@ public class forEachDemo {
 		names.add("Arya");
 		names.add("Sia");
 
-		// jcijsdnvijds
+
 		for(String s : names) {
 			if(s.startsWith("A")) {
 				System.out.println(s);
